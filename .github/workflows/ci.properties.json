@@ -1,0 +1,9 @@
+{
+    "name": "Python CI Workflow",
+    "description": "A workflow to run tests on Python code using pytest.",
+    "iconName": "python",
+    "categories": [
+        "Python",
+        "CI"
+    ]
+}
